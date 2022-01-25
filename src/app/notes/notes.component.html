@@ -1,0 +1,6 @@
+<div style="margin-top:50px;position:relative">
+  <button class="notes-btn">+ Add Notes</button>
+</div>
+<div id="notesContainer">
+  <app-note *ngFor="let noteItem of Notes" [Note]="noteItem"></app-note>
+</div>

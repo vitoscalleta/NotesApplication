@@ -1,0 +1,9 @@
+.note {
+  height: 200px;
+  width: 200px;
+  background-color: #F1A9F2;
+  display: inline-grid;
+  margin: 20px;
+  font-family:Calibri;
+  padding: 20px;
+}

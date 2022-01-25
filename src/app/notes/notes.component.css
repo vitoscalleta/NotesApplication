@@ -1,0 +1,14 @@
+
+.notes-btn {
+  float: right;
+  background-color: #2C78BF;
+  color: ghostwhite;
+  border:thin;
+  border-radius: 3px;
+  font-size: 1em;
+  padding: 10px;
+}
+
+#notesContainer{
+    padding: 20px;
+}
